@@ -17,7 +17,7 @@ int main()
 
     x = 0 ;         // intを代入
     x = 0.0 ;       // doubleを代入
-    x = "hello"s ;  // std::stringを代入
+    x = "hello" ; 　 // std::stringを代入
 
     // intが入っているか確認
     // falseを返す
